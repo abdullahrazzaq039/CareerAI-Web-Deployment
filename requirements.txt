@@ -4,4 +4,6 @@ numpy
 joblib
 xgboost
 sentence-transformers
-lightfm
+Cython
+wheel
+git+https://github.com/lyst/lightfm.git
